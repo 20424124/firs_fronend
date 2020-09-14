@@ -1,0 +1,28 @@
+/* ------------------Header Login----------------------- */
+
+.logo {
+    width: 95px;
+    height: 40px;
+    background: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 10px 20px;
+}
+
+.group-login .login {
+    flex-grow: 2;
+    text-align: right;
+}
+
+.group-login .sign-up {
+    flex-grow: 1;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.login a,
+.sign-up a {
+    color: #212121;
+    font-weight: 500;
+}
