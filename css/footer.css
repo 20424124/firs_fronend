@@ -1,0 +1,67 @@
+/* ------------------Footer----------------------- */
+
+footer {
+    background: #212121;
+    color: #f6f7f8;
+    margin: 0 auto;
+}
+
+.footer-item-page {
+    width: 363px;
+}
+
+.btn-footer {
+    background: none;
+    height: 42px;
+    color: #f6f7f8;
+    border: 2px solid #f6f7f8;
+    border-radius: 10px;
+    padding: 22px 30px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 0px;
+    cursor: pointer;
+    outline: none;
+}
+
+.thead {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.tpage {
+    margin: 5px 0px 5px 0px;
+}
+
+.tpage a {
+    color: #c5c4c4;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.socials {
+    font-size: 28px;
+}
+
+.socials i {
+    padding-right: 25px;
+}
+
+.app {
+    text-align: end;
+}
+
+.app img {
+    padding-left: 20px;
+}
+
+.footer-bottom a,
+span {
+    margin-right: 24px;
+    font-size: 14px;
+}
+
+.footer-bottom a {
+    color: #c5c4c4;
+}
