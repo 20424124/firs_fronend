@@ -1,0 +1,10 @@
+/* -----------------Header Slogan-----------------------  */
+
+.slogan {
+    width: 450px;
+}
+
+.slogan h1 {
+    font-size: 56px;
+    font-weight: bold;
+}
