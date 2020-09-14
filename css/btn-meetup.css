@@ -1,0 +1,16 @@
+/* ------------------Button Meetup----------------------- */
+
+.btn {
+    padding: 15px 60px;
+    background: #E5635E;
+    color: white;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:hover {
+    background-color: #d87a76;
+    outline: none;
+}
